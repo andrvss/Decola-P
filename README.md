@@ -1,4 +1,4 @@
-<h1 align="center"> iQuiz </h1>
+<h1 align="center"> Decola </h1>
 
 <p align="center">
 Pronto para ter as melhores férias com os menores preços? <br/>
@@ -17,9 +17,9 @@ Pronto para ter as melhores férias com os menores preços? <br/>
 
 <br>
 
-/* <p align="center">
-  <img alt="Projeto 01" src="" width="100%">
-</p> */
+ <p align="center">
+  <img alt="Projeto 01" src="https://github.com/andrvss/Decola-P/assets/110691699/ad9a8401-11b3-4f2b-b942-81ab5a3c00bf" width="100%">
+</p> 
 
 ## 🚀 Tecnologias
 
