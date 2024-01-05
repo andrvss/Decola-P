@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por Paulo Andres. :wave: [Conheça minha inspiração aqui!]([https://youtu.be/KDxC061PfDo](https://cursos.alura.com.br/course/ios-construindo-primeiro-aplicativo)https://cursos.alura.com.br/course/ios-construindo-primeiro-aplicativo](https://cursos.alura.com.br/course/ios-auto-layout-constraints)https://cursos.alura.com.br/course/ios-auto-layout-constraints)
+Feito com ♥ por Paulo Andres. :wave: [Conheça minha inspiração aqui!](https://youtu.be/KDxC061PfDo](https://cursos.alura.com.br/course/ios-construindo-primeiro-aplicativo)https://cursos.alura.com.br/course/ios-construindo-primeiro-aplicativo](https://cursos.alura.com.br/course/ios-auto-layout-constraints)https://cursos.alura.com.br/course/ios-auto-layout-constraints)
