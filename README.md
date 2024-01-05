@@ -36,7 +36,7 @@ Projeto realizado para treinamento de linguagens de programação iOS, com uso d
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]() para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/NAulyKL4Ya9FYG3hyF8RqG/Decola?type=design&node-id=0%3A1&mode=design&t=lHXXXyaS8Ux9Mo6A-1) para acessá-lo.
 
 ## :memo: Licença
 
